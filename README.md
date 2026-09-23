@@ -6,7 +6,7 @@ Dự án này tập trung vào việc phân tích tính khả thi tài chính v�
 Tổng vốn đầu tư cố định ban đầu của dự án được ước tính là 64.835 triệu đồng, bao gồm chi phí đất đai, nhà xưởng và hệ thống dây chuyền máy móc hiện đại.
 
 ## 📂 Cấu trúc thư mục
-*   **`docs/DỰ ÁN KINH DOANH SẢN XUẤT BÀN CHẢI TRE_NHÓM 2.pdf`**: Báo cáo phân tích toàn diện, bao gồm phân tích thị trường theo mô hình SWOT, quy trình vận hành kỹ thuật, cơ cấu tổ chức và chi tiết các bảng biểu mô hình tài chính.
+*   **`pdf/DỰ ÁN KINH DOANH SẢN XUẤT BÀN CHẢI TRE.pdf`**: Báo cáo phân tích toàn diện, bao gồm phân tích thị trường theo mô hình SWOT, quy trình vận hành kỹ thuật, cơ cấu tổ chức và chi tiết các bảng biểu mô hình tài chính.
 *   **`data/Chi phí vốn.xlsx`**: Mô hình bảng tính xác định chi phí sử dụng vốn bình quân (WACC), được phân tích dựa trên dữ liệu beta và cấu trúc nợ của các doanh nghiệp cùng ngành trên thị trường quốc tế (Amcor PLC, Sonoko, Graphic Packaging Holding Co).
 
 ## 📊 Điểm nổi bật về Tài chính & Thị trường
